@@ -1,0 +1,13 @@
+.input{
+
+  display: inline-block;
+  width: 70%;
+}
+
+@media (max-width: 650px){
+  .input{
+    width: 300px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+  }
+}

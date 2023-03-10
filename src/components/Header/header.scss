@@ -1,0 +1,27 @@
+.currency {
+  color: white;
+  margin-right: 25px;
+  h5{
+    display:inline-block;
+    font-size: 20px;
+    margin: 0 5px;
+    vertical-align: middle;
+  }
+  h6{
+    display:inline-block;
+    font-size: 20px;
+    margin: 0 0 0 5px;
+    vertical-align: middle;
+  }
+  img {
+ vertical-align: middle;
+    border-radius: 5px;
+    height: 25px;
+    width: 40px;
+  }
+  span{
+    margin: 0;
+    vertical-align: middle;
+    font-size: 20px;
+  }
+}

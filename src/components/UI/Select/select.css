@@ -1,0 +1,13 @@
+.select{
+    width: 130px;
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+}
+@media (max-width: 650px){
+    .select{
+        width: 300px;
+        margin-left: 25px;
+        margin-bottom: 5px;
+    }
+}
